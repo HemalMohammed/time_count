@@ -1,16 +1,6 @@
 # timerapp
 
-A new Flutter project.
+# output
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ![Countdown](https://user-images.githubusercontent.com/106655221/218310260-d09c4f0d-2c11-4b02-8f63-52890d98c804.png)
+![add_task](https://user-images.githubusercontent.com/106655221/218310290-874c97b2-1829-476e-8e93-c90f013d3703.png)
